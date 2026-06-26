@@ -10,5 +10,11 @@
     "discord",
     "dragonball",
     "dragon-soul",
-    "bot",
-    "discord
+    "bot"
+  ],
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.0"
+  }
+}
